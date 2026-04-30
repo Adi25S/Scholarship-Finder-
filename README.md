@@ -1,7 +1,6 @@
 # Scholarship Finder Application
 
 A full-stack web application to help students find and match with relevant scholarships based on their academic profile, interests, and qualifications.
-Link : https://scholarship-finder-final-frontend.onrender.com/
 
 ## Features
 
